@@ -7,7 +7,7 @@
     "email": "travist349@gmail.com",
     "url": "http://github.com/travist"
   },
-  "main": "./index.js",
+  "main": "./bin/jsencrypt.js",
   "homepage": "http://www.travistidwell.com/jsencrypt",
   "repository": {
     "type": "git",
